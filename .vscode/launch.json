@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Windows",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "windows",
+      "toolArgs": [
+        "--dart-define=GEMINI_API_KEY=${env:GEMINI_API_KEY}",
+        "--dart-define=GEMINI_MODEL=gemini-2.5-flash"
+      ]
+    },
+    {
+      "name": "Flutter Android",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=GEMINI_API_KEY=${env:GEMINI_API_KEY}",
+        "--dart-define=GEMINI_MODEL=gemini-2.5-flash"
+      ]
+    }
+  ]
+}
