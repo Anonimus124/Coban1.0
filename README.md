@@ -48,14 +48,12 @@ These are the product links used during the build.
 | 2-cell 18650 battery holder | https://share.temu.com/3RumAjBXD8B |
 | Mini toggle switches | https://share.temu.com/ZeoLe3awByB |
 | TP4056 charging modules | https://share.temu.com/UvcupIY5FiB |
+| Red/black speaker wire | https://www.temu.com/search_result.html?search_key=2%20core%20speaker%20wire%20red%20black |
 
 Extra parts and materials:
 
 - Stagg Descant Recorder in cream:
   https://www.giggear.co.uk/stagg-descant-recorder-cream.htm
-- Speaker wire, red/black two-core cable. Search Temu for `2 core speaker wire
-  red black`, or start here:
-  https://www.temu.com/search_result.html?search_key=2%20core%20speaker%20wire%20red%20black
 - 6x 10 kOhm resistors.
 - 6x 220 Ohm resistors.
 - 6x 1N4001 diodes.
