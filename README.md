@@ -61,6 +61,9 @@ Extra parts and materials:
 - Speaker wire, red/black two-core cable. Search Temu for `2 core speaker wire
   red black`, or start here:
   https://www.temu.com/search_result.html?search_key=2%20core%20speaker%20wire%20red%20black
+- 6x 10 kOhm resistors.
+- 6x 220 Ohm resistors.
+- 6x 1N4001 diodes.
 - 4x M6 x 40 mm Phillips-head machine screws/bolts for the main recorder clamp.
 - 2x M4 x 6 mm Phillips-head machine screws/bolts for the switch plate.
 - Double-sided tape for mounting the PCB and battery holder.
