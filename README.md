@@ -51,13 +51,8 @@ These are the product links used during the build.
 
 Extra parts and materials:
 
-- Stagg German-style soprano recorder. The closest official model page is the
-  Stagg `RECGER-YW` German-fingering soprano recorder:
-  https://staggmusic.com/en/products/view/RECGER-YW-soprano-recorder-german-fingering-yellow/
-- Amazon search:
-  https://www.amazon.com/s?k=Stagg+REC-GER+soprano+recorder+German+fingering
-- eBay search:
-  https://www.ebay.com/sch/i.html?_nkw=Stagg+REC-GER+soprano+recorder+German+fingering
+- Stagg Descant Recorder in cream:
+  https://www.giggear.co.uk/stagg-descant-recorder-cream.htm
 - Speaker wire, red/black two-core cable. Search Temu for `2 core speaker wire
   red black`, or start here:
   https://www.temu.com/search_result.html?search_key=2%20core%20speaker%20wire%20red%20black
