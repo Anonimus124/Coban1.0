@@ -36,19 +36,18 @@ you to build the app with your own key.
 
 ## Main Parts
 
-These are the product links used during the build. Temu short links can change,
-so the redirect `goods_id` is also saved here as a backup reference.
+These are the product links used during the build.
 
 | Part / use | Link |
 | --- | --- |
-| 18650 rechargeable Li-ion batteries, 3.7 V, 3000 mAh, goods_id `601102686092509` | https://share.temu.com/AAxxFDRMDZB |
-| JF-0530B 5 V push solenoids, goods_id `605508849232657` | https://share.temu.com/nRcJicoiy4B |
-| IRLZ44N / IRLZ-series logic-level N-channel MOSFETs, TO-220 package, goods_id `601100471519191` | https://share.temu.com/BM2HjPwDSDB |
-| ESP32-C3 Super Mini development board, goods_id `601104351434883` | https://share.temu.com/fQ0xgR6FktB |
-| LM2596 adjustable DC-DC buck converter / step-down module, goods_id `601099688899521` | https://share.temu.com/UVUPquIY3JB |
-| 18650 battery holder / battery box, two-cell holder used in this build, goods_id `601101775769760` | https://share.temu.com/3RumAjBXD8B |
-| Mini toggle switches, SPDT ON-ON style, 6 A 125 VAC marking, goods_id `601101962219888` | https://share.temu.com/ZeoLe3awByB |
-| TP4056-style lithium battery charging modules, 5 pcs, goods_id `605811124354884` | https://share.temu.com/UvcupIY5FiB |
+| 18650 Li-ion batteries | https://share.temu.com/AAxxFDRMDZB |
+| JF-0530B 5 V push solenoids | https://share.temu.com/nRcJicoiy4B |
+| IRLZ44N / IRLZ-series MOSFETs | https://share.temu.com/BM2HjPwDSDB |
+| ESP32-C3 Super Mini | https://share.temu.com/fQ0xgR6FktB |
+| LM2596 buck converter | https://share.temu.com/UVUPquIY3JB |
+| 2-cell 18650 battery holder | https://share.temu.com/3RumAjBXD8B |
+| Mini toggle switches | https://share.temu.com/ZeoLe3awByB |
+| TP4056 charging modules | https://share.temu.com/UvcupIY5FiB |
 
 Extra parts and materials:
 
