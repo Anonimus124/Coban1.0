@@ -240,3 +240,7 @@ solenoids, keep grounds common, use flyback diodes, and make sure the battery
 wiring can handle the solenoid current.
 
 The public repository and APK must not contain a Gemini API key.
+
+## License
+
+This project is released under the MIT License. See `LICENSE`.
